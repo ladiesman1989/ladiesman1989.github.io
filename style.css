@@ -10,32 +10,28 @@
                     text-align: center;
                     color: rgb(255, 36, 20);
                     font-size: 50px;
-                    margin-top: 50px;
+                    
                 }
                 h3 {
-                    left: 290px; position: absolute; top: 630px;
-                    color:rgb(0, 0, 0);
+                    text-align: center;
                     font-size: x-large;
-                    margin-top: 50px;
+                    
 
                 }
                 h4 {
-                    left: 770px; position: absolute; top: 630px;
-                    color:rgb(0, 0, 0);
+                    text-align: center;
                     font-size: x-large;
-                    margin-top: 50px;
+                   
                 }
                 h5 {
-                    left: 1300px; position: absolute; top: 630px;
-                    color:rgb(0, 0, 0);
+                    text-align: center;              
                     font-size: x-large;
-                    margin-top: 50px;
+                    
                 }
                 h6 {
-                    left: 150px; position: absolute; top: 1200px;
-                    color:rgb(0, 0, 0);
+                    left: 150px; position: absolute; top: 4300px;
                     font-size: x-large;
-                    margin-top: 50px;
+                    
                 }
                
                 .ul1 {
@@ -46,78 +42,54 @@
 
                 .img  {
                     text-align: center;
-                    margin-top: 50px;    
+                      
                }
 
-               .h3 {
-                    text-align: left;
-                    margin-top: 50px;
-                    margin-left: 130px;
-                    margin-right: 1145px; 
-                    word-break: break-all;
-                    font-size: medium;
-               }
-
-               .h4 {
-                    text-align: left;
-                    margin-top: -260px;
-                    margin-left: 640px;
-                    margin-right: 640px; 
-                    word-break: break-all;
-                    font-size: medium;
-               }
-               .h5 {
-                    text-align: left;
-                    margin-top: -390px;
-                    margin-left: 1150px;
-                    margin-right: 130px; 
-                    word-break: break-all;
-                    font-size: medium;
-               }
 
                 .ul2 {
-                    left: 130px; position: absolute; top: 1250px;
+                    left: 130px; position: absolute; top: 4350px;
                     font-size: large;
                     margin-top: 30px;
+                    
                 }
 
                 .h7 {
-                    left: 1100px; position: absolute; top: 1200px;
-                    color:rgb(0, 0, 0);
+                    left: 1100px; position: absolute; top: 4300px;
                     font-size: x-large;
                     margin-top: 50px;
                 }   
 
                 .ul3 {
-                    left: 1080px; position: absolute; top: 1270px;
+                    left: 1080px; position: absolute; top: 4350px;
                     font-size: large;
                     margin-top: 50px;
+                    
                 }
 
                 .h8 {
-                    left: 1315px; position: absolute; top: 1200px;
-                    color:rgb(0, 0, 0);
+                    left: 1315px; position: absolute; top: 4300px;
                     font-size: x-large;
                     margin-top: 50px;
                 }   
 
                 .ul4 {
-                    left: 1300px; position: absolute; top: 1270px;
+                    left: 1300px; position: absolute; top: 4350px;
                     font-size: large;
                     margin-top: 50px;
+                   
                 }
 
                 .h9 {
-                    left: 1520px; position: absolute; top: 1200px;
-                    color:rgb(0, 0, 0);
+                    left: 1520px; position: absolute; top: 4300px;
                     font-size: x-large;
                     margin-top: 50px;
                 }   
 
                 .ul5 {
-                    left: 1500px; position: absolute; top: 1270px;
+                    left: 1500px; position: absolute; top: 4350px;
                     font-size: large;
                     margin-top: 50px;
+                   
                 }
 
                 .sh3 {
@@ -171,9 +143,6 @@
                     text-align: center;
                 }
 
-
-
-
                 .img-con {
                     max-width: 100%;
                     height: auto;
@@ -188,4 +157,6 @@
                     font-size: x-large;
                   }
 
-                
+             .img1{
+                position: absolute; top: 4300px;
+             }
