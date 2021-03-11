@@ -12,29 +12,20 @@
                     font-size: 50px;
                     
                 }
-                h3 {
+                h3,h4,h5 {
                     text-align: center;
                     font-size: x-large;
-                    
-
                 }
-                h4 {
-                    text-align: center;
-                    font-size: x-large;
-                   
-                }
-                h5 {
-                    text-align: center;              
-                    font-size: x-large;
-                    
-                }
+               
+             
                 h6 {
-                    left: 150px; position: absolute; top: 4300px;
+                    left: 150px; position: absolute; top: 3500px;
                     font-size: x-large;
                     
                 }
                
                 .ul1 {
+                    display: inline;
                     left: 1450px; position: absolute; top: 65px;
                     font-size:large;
                     
@@ -47,46 +38,46 @@
 
 
                 .ul2 {
-                    left: 130px; position: absolute; top: 4350px;
+                    left: 130px; position: absolute; top: 3550px;
                     font-size: large;
                     margin-top: 30px;
                     
                 }
 
                 .h7 {
-                    left: 1100px; position: absolute; top: 4300px;
+                    left: 1100px; position: absolute; top: 3500px;
                     font-size: x-large;
                     margin-top: 50px;
                 }   
 
                 .ul3 {
-                    left: 1080px; position: absolute; top: 4350px;
+                    left: 1080px; position: absolute; top: 3550px;
                     font-size: large;
                     margin-top: 50px;
                     
                 }
 
                 .h8 {
-                    left: 1315px; position: absolute; top: 4300px;
+                    left: 1315px; position: absolute; top: 3500px;
                     font-size: x-large;
                     margin-top: 50px;
                 }   
 
                 .ul4 {
-                    left: 1300px; position: absolute; top: 4350px;
+                    left: 1300px; position: absolute; top: 3550px;
                     font-size: large;
                     margin-top: 50px;
                    
                 }
 
                 .h9 {
-                    left: 1520px; position: absolute; top: 4300px;
+                    left: 1520px; position: absolute; top: 3500px;
                     font-size: x-large;
                     margin-top: 50px;
                 }   
 
                 .ul5 {
-                    left: 1500px; position: absolute; top: 4350px;
+                    left: 1500px; position: absolute; top: 3550px;
                     font-size: large;
                     margin-top: 50px;
                    
@@ -158,5 +149,7 @@
                   }
 
              .img1{
-                position: absolute; top: 4300px;
+                position: absolute; top: 3500px;
              }
+
+        
