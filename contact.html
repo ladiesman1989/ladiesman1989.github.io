@@ -17,24 +17,28 @@
 
 <!-- modify this form HTML and place wherever you want your form -->
 
-         <form class="img-con"
-         action="https://formspree.io/f/xvoveonj"
-         method="POST"
-         >
+         <form class="img-con" action="https://formspree.io/f/xvoveonj" method="POST">
+
          <label>
          Your email:
          <input type="email" name="_replyto">
          </label>
+
          <label>
          Your message:
-         <textarea name="message"></textarea>
+         <textarea name="message" ></textarea>
          </label>
  
-         <!-- your other form fields go here -->
- 
+         
+         <p>Where do you want to go?</p>
+         <input type="checkbox" name="location" value="Peking" > Peking 
+         <input type="checkbox" name="location" value="Shanghai"> Shanghai <br>
+
+        <br><br>
          <button type="submit">Send</button>
          </form>
 
+     
 
 </body>
 </html>
