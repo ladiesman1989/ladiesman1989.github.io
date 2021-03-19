@@ -1,14 +1,15 @@
            
  /* CSS */          
                 h1 {
-                    color: rgb(0, 0, 0); 
+                    color: rgb(255, 255, 255); 
                     font-size: 35px; 
                     left: 130px; position: absolute; top: 50px; 
                     font-family: fantasy
                 }
                 h2 {
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                     text-align: center;
-                    color: rgb(255, 36, 20);
+                    color: rgb(141, 141, 141);
                     font-size: 50px;
                     
                 }
@@ -26,7 +27,7 @@
                
                 .ul1 {
                     display: inline;
-                    left: 1450px; position: absolute; top: 65px;
+                    left: 1200px; position: absolute; top: 70px;
                     font-size:large;
                     
                 }
