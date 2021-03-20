@@ -33,9 +33,8 @@
                
              
                 h6 {
-                    left: 150px; position: absolute; top: 3500px;
+                    left: 150px; position: absolute; top: 1980px;
                     font-size: x-large;
-                    
                 }
                
                 .ul1 {
@@ -52,46 +51,46 @@
 
 
                 .ul2 {
-                    left: 130px; position: absolute; top: 3550px;
+                    left: 130px; position: absolute; top: 2050px;
                     font-size: large;
                     margin-top: 30px;
                     
                 }
 
                 .h7 {
-                    left: 1100px; position: absolute; top: 3500px;
+                    left: 1100px; position: absolute; top: 1980px;
                     font-size: x-large;
                     margin-top: 50px;
                 }   
 
                 .ul3 {
-                    left: 1080px; position: absolute; top: 3550px;
+                    left: 1080px; position: absolute; top: 2050px;
                     font-size: large;
                     margin-top: 50px;
                     
                 }
 
                 .h8 {
-                    left: 1315px; position: absolute; top: 3500px;
+                    left: 1315px; position: absolute; top: 1980px;
                     font-size: x-large;
                     margin-top: 50px;
                 }   
 
                 .ul4 {
-                    left: 1300px; position: absolute; top: 3550px;
+                    left: 1300px; position: absolute; top: 2050px;
                     font-size: large;
                     margin-top: 50px;
                    
                 }
 
                 .h9 {
-                    left: 1520px; position: absolute; top: 3500px;
+                    left: 1520px; position: absolute; top: 1980px;
                     font-size: x-large;
                     margin-top: 50px;
                 }   
 
                 .ul5 {
-                    left: 1500px; position: absolute; top: 3550px;
+                    left: 1500px; position: absolute; top: 2050px;
                     font-size: large;
                     margin-top: 50px;
                    
@@ -163,5 +162,6 @@
                   }
 
              .img1{
-                position: absolute; top: 3500px;
+                position: absolute; top: 2000px;
+                background-color: lightslategray;
              }
