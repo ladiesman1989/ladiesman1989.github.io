@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> My Website</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/style.min.css">
 </head>
 
 <body>
@@ -121,7 +121,49 @@
 						<div class="amazing-box">
 							<h2>Amazing China Tour</h2>
 							<span>China is one of the four ancient civilizations with a long history, splendid culture and places of interest. Chinese style is an ancient and mysterious place with secrets that many people can't guess. Chinese style is an ancient and mysterious place with secrets that many people can't guess.</span>
-							<a href="https://www.booking.com/">Book Now</a><a href="https://www.mafengwo.cn/travel-scenic-spot/mafengwo/21536.html">Get More</a>
+						 <!-- Button trigger modal -->
+						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#staticBackdrop">Book Now</button>
+						<!-- Modal -->
+						<div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+							<div class="modal-dialog">
+							<div class="modal-content">
+								<div class="modal-header">
+								<h5 class="modal-title" id="staticBackdropLabel">Information</h5>
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+								</button>
+								</div>
+								<div class="modal-body">
+					
+									<div class="form">
+										<h6>Where do you want to go?</h6><br>
+										<input type="checkbox" name="location" value="Peking" > Beijing
+										<input type="checkbox" name="location" value="Shanghai"> Shanghai
+										<input type="checkbox" name="location" value="Peking" > Guangzhou
+										<input type="checkbox" name="location" value="Shanghai"> Shenzhen 
+										<input type="checkbox" name="location" value="Peking" > Wuhan
+										<input type="checkbox" name="location" value="Shanghai"> Chengdu
+									</div>	<br> <br>
+
+										<form class="img-con" action="https://formspree.io/f/xvoveonj" method="POST">
+											<label>
+												Your email:
+												<input type="email" name="_replyto">
+											</label> <br>
+
+											<label>
+												Comment:
+												<textarea name="message" ></textarea>
+											</label>
+											</div>
+											<div class="modal-footer">
+											<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+											<button type="submit" class="btn btn-primary">Send</button>
+											</form>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -167,7 +209,6 @@
 				</div>
 			</div>
 		</div>
-
      	<div class="footer">
 			<div class="alt">
 				<div class="foot">
